@@ -24,8 +24,8 @@ The proposed method consists of four main steps: **Ground Points Segmentation**,
    Please check [README.md](https://github.com/protocolbuffers/protobuf/blob/master/src/README.md) for ```proto3``` installation instructions.
 ## 2. Install ```glog``` 
    Please check [INSTALL](https://github.com/google/glog/blob/master/INSTALL) for ```glog``` installation instructions.
-## 3. Install ```OpenCV 3.4.5++``` and ```PCL 1.7++```  
-## 4 Install Gaussian Processes library ```limbo```   
+## 3. Install ```OpenCV 3.4.5++``` and ```PCL 1.8.0```.  ```PCL 1.8.0``` rely on "boost1.6.5" and "vtk7.1"
+## 4 Install Gaussian Processes library ```limbo```  ."limbo" rely on "eigen3" 
    1. clone ``limbo``  
 
 ```
